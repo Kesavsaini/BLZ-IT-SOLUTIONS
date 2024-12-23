@@ -1,0 +1,29 @@
+{
+  "subTitle": "Get quick answers to common questions about our IT services and support.",
+  "faqs": [
+    {
+      "question": "What services does your IT solutions company offer?",
+      "answer": "We provide a range of services including web development and App development, IT consulting, Digital marketing, Graphic design, technical support and much more."
+    },
+    {
+      "question": "Do you offer customized IT solutions?",
+      "answer": "Yes, we specialize in tailoring IT solutions to meet the unique needs of your business."
+    },
+    {
+      "question": "Can you integrate new solutions with our existing systems?",
+      "answer": "Absolutely, we ensure seamless integration with your current systems to minimize disruptions and maximize efficiency."
+    },
+    {
+      "question": "What industries do you work with?",
+      "answer": "We serve a wide range of industries including healthcare, retail, education, and manufacturing."
+    },
+    {
+      "question": "Do you provide ongoing support after project completion?",
+      "answer": "Yes, we offer comprehensive post-implementation support and maintenance services."
+    },
+    {
+      "question": "How do we start a project with your company?",
+      "answer": "You can start by contacting us for an initial consultation, where we’ll discuss your needs and propose the best solutions."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+---
+import { Image } from "astro:assets";
+import logo from "../images/blzlogo.png";
+
+interface Props {
+  class?: string;
+}
+
+const { class: className = "h-full w-full object-cover object-center" } = Astro.props;
+---
+
+<Image
+  src={logo}
+  alt="BLZ Solutions"
+  class={className}
+  draggable={false}
+  loading="eager"
+  width={200}
+  height={50}
+/>

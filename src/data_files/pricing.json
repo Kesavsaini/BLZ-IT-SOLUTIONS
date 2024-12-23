@@ -1,0 +1,70 @@
+{
+  "title": "Everything in affordable pricing",
+  "subTitle": "In Blzit we care about your budget, while maintaing our quality standards",
+  "badge": "Best value",
+  "thirdOption": "Enterprise Solutions?",
+  "btnText": "Get a Custom Quote",
+
+  "Basic": {
+    "name": "Basic Package",
+    "description": "Digital Starter",
+    "price": "₹15,000 - ₹25,000",
+    "cents": ".00",
+    "billingFrequency": "₹",
+    "features": [
+      "5-page responsive website",
+      "Mobile-friendly design",
+      "Basic SEO optimization",
+      "Contact form",
+      "Social media integration",
+      "1 month of support",
+      " Delivery: 1-2 weeks"
+    ],
+    "purchaseBtnTitle": "Get now",
+    "purchaseLink": "#"
+  },
+
+  "Standard": {
+    "name": "Standard Package",
+    "description": "Business Growth",
+    "price": "₹30,000 - ₹45,000",
+    "cents": ".00",
+    "billingFrequency": "₹",
+    "features": [
+      "up 10-page responsive website",
+      "Custom design",
+      "Advanced SEO setup",
+      "Content management system",
+      "Email integration",
+      "Social media integration",
+      "Blog setup",
+      "2 months of support",
+      "Basic analytics integration",
+      "Delivery: 2-3 weeks"
+    ],
+    "purchaseBtnTitle": "Get now",
+    "purchaseLink": "#"
+  },
+  "Premium": {
+    "name": "Premium Package",
+    "description": "E-commerce Complete",
+    "price": "₹60,000 - ₹150,000",
+    "cents": ".00",
+    "billingFrequency": "₹",
+    "features": [
+      "Full e-commerce website",
+      "Unlimited products",
+      "Payment gateway integration",
+      "Inventory management",
+      "Order tracking system",
+      "Custom design",
+      "Advanced SEO",
+      "Email marketing integration",
+      "3 months of support",
+      "Advanced analytics",
+      "Delivery: 4-6 weeks"
+    ],
+    "purchaseBtnTitle": "Get now",
+    "purchaseLink": "#"
+  }
+}

@@ -22,6 +22,11 @@ import dashboard from "@images/dashboard-image.avif";
 import FeatureCards from "@/components/sections/features/FeatureCards.astro";
 import Solutions from "@/components/sections/solutions/solutions.astro";
 import placeholder from "@images/placeholder.svg";
+import Tech_stack from "@images/webd2.jpg";
+import techstack from "@images/techstack.jpg";
+import aisol from "@images/aisol.jpg"
+import mordentech from "@images/mordentech.jpg"
+
 
 
 const avatarSrcs: Array<string> = [
@@ -43,10 +48,10 @@ const avatarSrcs: Array<string> = [
     title=`Blazing the Path to Smarter <span
         class="text-blue-500 dark:text-blue-400">IT Solutions</span>`
     subTitle="Turning Complex Challenges into Simple, Scalable IT Solutions that Drive Real Impact for Your Business"
-    primaryBtn="Start Exploring"
-    primaryBtnURL="/products"
+    primaryBtn="Contact Us"
+    primaryBtnURL="/contact"
     secondaryBtn="Schedule a Call"
-    secondaryBtnURL="/contact"
+    secondaryBtnURL="https://cal.com/kesavsaini/quick-project-call-blz-it-solutions"
     withReview={false}
     avatars={avatarSrcs}
     rating=`<span class="font-bold">4.8</span> / 5`
@@ -81,7 +86,7 @@ const avatarSrcs: Array<string> = [
         content:
           "We stay ahead of the curve by leveraging the latest tools, frameworks, and technologies to deliver solutions that are efficient, scalable, and secure. Our constantly evolving tech stack ensures that your projects benefit from cutting-edge advancements and industry best practices.",
         svg: "tech",
-        src: placeholder,
+        src: techstack,
         alt: "blue and black heavy equipment on brown grass field",
         first: true,
       },
@@ -90,7 +95,7 @@ const avatarSrcs: Array<string> = [
         content:
           "Harness the power of artificial intelligence to transform your business operations. From predictive analytics and smart automation to natural language processing and machine learning, our AI-driven solutions are designed to boost efficiency, drive innovation, and create personalized user experiences.",
         svg: "ai",
-        src: placeholder,
+        src: aisol,
         alt: "A screenshot or graphic representation of the intuitive dashboard",
         second: true,
       },
@@ -99,7 +104,7 @@ const avatarSrcs: Array<string> = [
         content:
           "Our solutions are built with adaptability in mind, ensuring they remain relevant as technology evolves. By integrating scalability, flexibility, and the latest advancements, we create systems that grow with your business and stand the test of time.",
         svg: "future",
-        src: placeholder,
+        src: mordentech,
         alt: "Gray metal building frame near tower crane during daytime",
       },
     ]}
